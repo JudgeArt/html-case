@@ -1,0 +1,49 @@
+body
+{
+
+ 	margin-left: auto;
+    margin-right: auto;
+	width: 70%;
+}
+
+img{
+	align-content: inherit;
+}
+
+figure{
+float:  right;
+margin-right: 325px;
+}
+
+.Etimology p{
+ 	margin-left: 1px;
+    margin-right: 1px;	
+	width: 425px;
+
+}
+.Etimology figure{
+	margin-left: 1px;
+	margin-right: 475px;
+}
+
+
+figcaption {
+	font-style: italic;
+	font-size: 18px;
+}
+
+h1{
+	font-size: 32px;
+}
+
+table, td, th {
+    border: 1px solid #000;
+}
+
+tfoot td { 
+	border: none;
+	font-weight: normal;
+	font-style: italic; 
+	column-span: 3;
+}
+
